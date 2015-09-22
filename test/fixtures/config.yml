@@ -1,0 +1,16 @@
+# This is a YAML document.
+
+# Some words:
+words:
+  - "beep"
+  - "boop"
+  - "bop"
+
+# Server config:
+server:
+  port: 7331
+  address: "127.0.0.1"
+
+# Logger config:
+logger:
+  level: "info"
