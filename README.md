@@ -46,6 +46,7 @@ function onData( error, data ) {
 		console.log( data );
 	}
 }
+```
 
 
 #### read.sync( path[, options] )
