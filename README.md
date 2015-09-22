@@ -50,7 +50,7 @@ function onData( error, data ) {
 
 #### read.sync( path[, options] )
 
-Synchronously reads the contents of an entire [YAML](https://github.com/yaml-lang/yaml) file.
+Synchronously reads the contents of an entire [YAML](http://yaml.org/) file.
 
 ``` javascript
 var out = read.sync( '/path/to/data.yml' );
